@@ -167,12 +167,12 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>ChatGPT 私享版</div>
+        <div className={styles["sidebar-title"]}>GPT-工作学业提效助手</div>
         <div className={styles["sidebar-sub-title"]}>
-         专为infoepoch会员用户构建国内便捷访问的人工智能私享版助手，速度更快，反应更灵敏，功能更全面！更多资讯可关注infoepoch官网：<a href="https://www.infoepoch.cn">www.infoepoch.cn</a>
+         专门构建的国内便捷访问的GPT-工作学业提效助手，速度更快，反应更灵敏，功能更全面！
        </div>
        <div style={{height: "300px"}}>
-         <iframe src="https://fk.infoepoch.cn/" style={{ width: "100%", height: "100%", border: "none" }}></iframe>
+         <iframe src="https://xt.fk.infoepoch.cn/" style={{ width: "100%", height: "100%", border: "none" }}></iframe>
        </div>
        <div className={styles["sidebar-logo"]}>
           <ChatGptIcon />
