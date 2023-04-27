@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill:#FFFFFF;}
+	.st3{display:inline;mask:url(#bg-mask-0_00000045611338336253078500000001144992979960359558_);}
+	.st4{fill:none;stroke:#333333;stroke-width:1.3333;stroke-dasharray:0,0;}
+	.st5{fill:#333333;}
+</style>
+<g transform="translate(0 0)  rotate(0 8 8)" class="st0">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="1.9" y="1" width="12.1" height="13.4">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	
+		<mask maskUnits="userSpaceOnUse" x="1.9" y="1" width="12.1" height="13.4" id="bg-mask-0_00000045611338336253078500000001144992979960359558_" style="display:inline;">
+		<g style="filter:url(#Adobe_OpacityMaskFilter);">
+			<rect id="path_0_00000118369860299383653860000001377671201591573138_" class="st2" width="16" height="16"/>
+		</g>
+	</mask>
+	<g class="st3">
+		<path id="路径_1" class="st4" d="M9.8,10.2c0.8-0.2,1.5-0.4,2.1-0.9c1-0.7,1.5-1.8,1.5-2.9c0-0.8-0.3-1.5-0.8-2.1
+			c-0.3-0.3,0.6-2.9-0.2-2.5C11.6,2,10.5,2.8,10,2.6C9.3,2.4,8.7,2.3,8,2.3c-0.6,0-1.2,0.1-1.7,0.2C5.5,2.7,4.8,2,4,1.7
+			C3.2,1.4,3.7,4,3.4,4.3C2.9,4.9,2.7,5.6,2.7,6.3c0,1.1,0.6,2.2,1.6,2.9c0.7,0.5,1.5,0.8,2.4,0.9"/>
+		<path id="路径_2" class="st4" d="M6.6,10.2C6.2,10.7,6,11.1,6,11.4s0,1.4,0,2.9"/>
+		<path id="路径_3" class="st4" d="M9.8,10.2c0.4,0.5,0.6,0.9,0.6,1.3c0,0.4,0,1.4,0,2.9"/>
+		<path id="路径_4" class="st4" d="M2,10.4c0.3,0,0.5,0.2,0.7,0.4c0.2,0.4,1,1.7,1.9,1.7c0.6,0,1.1,0,1.4,0"/>
+	</g>
+</g>
+<image style="display:none;overflow:visible;" width="120" height="120" xlink:href="../../../Volumes/SSD LH/folder/AI导航站资料/infoepoch-logo的副本.png"  transform="matrix(0.1146 0 0 0.1146 0.8489 0.5828)">
+</image>
+<polygon class="st5" points="7.6,0.6 6.7,2.3 7.7,3.8 8.6,2.1 "/>
+<polygon class="st5" points="1,11.9 3.1,11.9 6.1,6.6 8.3,10.3 5,10.4 4.2,11.9 9.2,11.9 10.5,14.3 12.7,14.3 6.1,3.1 "/>
+<polygon class="st5" points="9.2,3.3 14.2,12 12.3,12 8.2,4.9 "/>
+</svg>
